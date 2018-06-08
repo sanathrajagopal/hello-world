@@ -1,2 +1,2 @@
 # hello-world
-Hello world, says it all
+Yello all, how's life?
